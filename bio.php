@@ -36,11 +36,15 @@
 		Urka</a> </div>
 		<div class="img-box fl lst"> <a href="images/02.jpg" rel="prettyPhoto[gallery_jony]"><img src="images/gallery2.jpg" alt="Jonathan Jusid"><br>
 		Jony</a> </div>
-		<div class="img-box fl"> <a href="images/gallery/luky/1.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/thumb.jpg" alt="Lucas Moscovicz"><br>
+		<div class="img-box fl"> <a href="images/gallery/luky/01.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/thumb.jpg" alt="Lucas Moscovicz"><br>
 		Luko</a> </div>
 		<div class="img-box fl lst"> <a href="images/04.jpg" rel="prettyPhoto[gallery_alan]"><img src="images/gallery1.jpg" alt="Alan Pomerantz"><br>
 		Alan</a> </div>
-		<a class="invisible" href="images/gallery/luky/2.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/2.jpg"/></a>
+		<a class="invisible" href="images/gallery/luky/02.jpg" rel="prettyPhoto[gallery_luky]"></a>
+		<a class="invisible" href="images/gallery/luky/03.jpg" rel="prettyPhoto[gallery_luky]"></a>
+		<a class="invisible" href="images/gallery/luky/04.jpg" rel="prettyPhoto[gallery_luky]"></a>
+		<a class="invisible" href="images/gallery/luky/05.jpg" rel="prettyPhoto[gallery_luky]"></a>
+		<a class="invisible" href="images/gallery/luky/06.jpg" rel="prettyPhoto[gallery_luky]"></a>
 	</div>
 	<div class="col-3">
 		<?php require('col3.php'); ?>
