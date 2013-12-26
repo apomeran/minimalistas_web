@@ -1,4 +1,4 @@
 <span>
-    	<a rel="nofollow" href="http://www.templatemonster.com/" target="_blank">Website template</a> designed by TemplateMonster.com<br>
-		<a href="http://www.templates.com/product/illustrations/" target="_blank">Vector Illustration</a> provided by Templates.com
+    	<a rel="nofollow" href="http://www.minimalistasmusica.com.ar/" target="_blank">Minimalistas</a> <?php echo date("Y"); ?> <br>
+		<a href="http://www.facebook.com/minimalistasmusica" target="_blank">Facebook</a> Oficial -----		<a href="http://www.twitter.com/losminimalistas" target="_blank">Twitter</a> Oficial
 </span>
