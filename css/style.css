@@ -40,7 +40,7 @@ header nav li a:hover,header nav li.active a {color:#037f00}
 #page4 .img-box {margin-right:44px;margin-bottom:20px}
 #page4 .img-box img {margin-bottom:6px}
 #page4 .img-box.lst {margin-right:0}
-#content {min-height:400px;background:url(../images/content-bg.png) no-repeat 0 0;padding:43px 0 60px 0;overflow:hidden;font-size:12px;line-height:20px;color:#fff;position:relative}
+#content {min-height:400px;padding:43px 0 60px 0;overflow:hidden;font-size:12px;line-height:20px;color:#fff;position:relative}
 .contacts span {width:70px;display:inline-block}
 h2 {font:30px/1.2em Arial, Helvetica, sans-serif;color:#fff;margin-bottom:16px}
 table.dates {width:586px;font:12px/20px Arial, Helvetica, sans-serif;color:#fff}
