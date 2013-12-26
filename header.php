@@ -1,11 +1,11 @@
 	<nav>
 			<ul>
-			<li class="active"><a href="index.html">Inicio</a></li>
-			<li><a href="index-1.html">Bio</a></li>
-			<li><a href="index-2.html">Audio</a></li>
-			<li><a href="index-3.html">Video</a></li>
-			<li><a href="index-4.html">Fechas</a></li>
-			<li><a href="index-5.html">Contacto</a></li>
+			<li class="active"><a href="index.php">Inicio</a></li>
+			<li><a href="bio.php">Bio</a></li>
+			<li><a href="audio.php">Audio</a></li>
+			<li><a href="video.php">Video</a></li>
+			<li><a href="fechas.php">Fechas</a></li>
+			<li><a href="contacto.php">Contacto</a></li>
 		</ul>
 	</nav>
 		<h1><a href="index.html">Sitio Web</a></h1>

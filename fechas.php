@@ -12,8 +12,6 @@
 <script type="text/javascript" src="js/Josefin_Sans_600.font.js"></script>
 <script type="text/javascript" src="js/Lobster_400.font.js"></script>
 <script type="text/javascript" src="js/sprites.js"></script>
-<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="js/jquery.jplayer.settings.js"></script>
 <script type="text/javascript" src="js/gSlider.js"></script>
 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
@@ -21,43 +19,76 @@
 <!--[if lt IE 9]><script src="js/html5.js" type="text/javascript"></script><![endif]-->
 <!--[if IE]><link href="css/ie_style.css" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
-<body id="page1">
+<body id="page5">
 <div id="main">
-     <header>
-       <?php require('header.php'); ?>
- 	 </header>
-  <div class="tumbvr">
-	<ul>
-		<li><img src="images/01.jpg" alt=""></li>
-		<li><img src="images/02.jpg" alt=""></li>
-		<li><img src="images/03.jpg" alt=""></li>
-		<li><img src="images/04.jpg" alt=""></li>
-		<li><img src="images/05.jpg" alt=""></li>
-		<li><img src="images/06.jpg" alt=""></li>
-		<li><img src="images/07.jpg" alt=""></li>
-		<li><img src="images/08.jpg" alt=""></li>
-		<li><img src="images/09.jpg" alt=""></li>
-		<li><img src="images/10.jpg" alt=""></li>
-	</ul>
-  </div>
+	<header>
+								       <?php require('header.php'); ?>
+
+</header>
   <article id="content">
 	<div class="col-1">
-	       <?php require('col1.php'); ?>
-	
+								       <?php require('col1.php'); ?>
+
 	</div>
 	<div class="col-2">
-	       <?php require('col2.php'); ?>
-	
+		<h2 class="pl">Tour Dates</h2>
+		<table class="dates" cellpadding="0" cellspacing="0" border="0">
+			<tr class="thead">
+			<td class="col1">Date / Venue</td>
+			<td class="col2">Location</td>
+			<td class="col3">Information</td>
+			</tr>
+			<tr class="even">
+			<td class="col1">April 6, 2011<br>
+				<a href="#" class="name">Motorpint Arena</a><br>
+				<a href="#" class="facebook-event">Facebook Event</a></td>
+			<td>416 S. 9th St. 83702<br>
+				Boise, ID</td>
+			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			</tr>
+			<tr>
+			<td class="col1">April 6, 2011<br>
+				<a href="#" class="name">Echo Arena</a><br>
+				<a href="#" class="facebook-event">Facebook Event</a></td>
+			<td>416 S. 9th St. 83702<br>
+				Boise, ID</td>
+			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			</tr>
+			<tr class="even">
+			<td class="col1">April 6, 2011<br>
+				<a href="#" class="name">Motorpint Arena</a><br>
+				<a href="#" class="facebook-event">Facebook Event</a></td>
+			<td>416 S. 9th St. 83702<br>
+				Boise, ID</td>
+			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			</tr>
+			<tr>
+			<td class="col1">April 6, 2011<br>
+				<a href="#" class="name">The NEC Arena</a><br>
+				<a href="#" class="facebook-event">Facebook Event</a></td>
+			<td>416 S. 9th St. 83702<br>
+				Boise, ID</td>
+			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			</tr>
+			<tr class="even">
+			<td class="col1">April 6, 2011<br>
+				<a href="#" class="name">Motorpint Arena</a><br>
+				<a href="#" class="facebook-event">Facebook Event</a></td>
+			<td>416 S. 9th St. 83702<br>
+				Boise, ID</td>
+			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			</tr>
+		</table>
 	</div>
 	<div class="col-3">
-	       <?php require('col3.php'); ?>
+		<?php require('col3.php'); ?>
 
 	</div>
   </article>
   <div class="af clear"></div>
 </div>
 <footer>
-	       <?php require('footer.php'); ?>
+							       <?php require('footer.php'); ?>
 
 </footer>
 <script type="text/javascript">Cufon.now()
@@ -67,15 +98,6 @@ $(function(){
 	$('.header-slider').gSlider({
 		prevBu:'.hs-prev',
 		nextBu:'.hs-next'
-	})
-})
-$(window).load(function(){
-	$('.tumbvr')._fw({tumbvr:{
-		duration:2000,
-		easing:'easeOutQuart'
-	}})
-	.bind('click',function(){
-		location="index-3.html"
 	})
 	
 	$('a[rel=prettyPhoto]').each(function(){

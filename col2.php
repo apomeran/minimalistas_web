@@ -1,15 +1,15 @@
 <!-- audio player begin -->
 		<div id="jplayer"></div>
 		<div class="jp-audio">
-		<h2>New Song</h2>
+		<h2>Nueva Cancion</h2>
 		<div class="jp-type-single">
 			<div id="jp_interface_1" class="jp-interface">
 			<ul class="jp-controls">
 				<li><a href="#" class="jp-play"></a></li>
 				<li><a href="#" class="jp-pause"></a></li>
-				<li><a href="#" class="jp-prev">Previous Track</a></li>
-				<li><a href="#" class="jp-next">Next Track</a></li>
-				<li><a href="#" class="jp-more-songs">Listen to More Songs</a></li>
+				<li><a href="#" class="jp-prev">Cancion anterior</a></li>
+				<li><a href="#" class="jp-next">Cancion siguiente</a></li>
+				<li><a href="#" class="jp-more-songs">Escuchar el CD Completo</a></li>
 			</ul>
 			<div class="jp-progress">
 				<div class="jp-seek-bar">
@@ -21,7 +21,7 @@
 		</div>
 		</div>
 		<!-- audio player end -->
-		<h2 class="pl">Upcoming Tour Dates</h2>
+		<h2 class="pl">Proximas Fechas</h2>
 		<div class="table-border">
 		<table class="dates" cellpadding="0" cellspacing="0" border="0">
 			<tr class="thead">
