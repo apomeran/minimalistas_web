@@ -32,22 +32,15 @@
 	</div>
 	<div class="col-2">
 		<h2>Biografia</h2>
-		<div class="img-box fl"> <a href="images/01.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery5.jpg" alt=""><br>
+		<div class="img-box fl thumbnail"> <a href="images/01.jpg" rel="prettyPhoto[gallery_urka]"><img src="images/gallery5.jpg" alt="Uriel Kutner"><br>
 		Urka</a> </div>
-		<div class="img-box fl lst"> <a href="images/02.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery2.jpg" alt=""><br>
+		<div class="img-box fl lst"> <a href="images/02.jpg" rel="prettyPhoto[gallery_jony]"><img src="images/gallery2.jpg" alt="Jonathan Jusid"><br>
 		Jony</a> </div>
-		<div class="img-box fl"> <a href="images/03.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery4.jpg" alt=""><br>
+		<div class="img-box fl"> <a href="images/gallery/luky/1.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/thumb.jpg" alt="Lucas Moscovicz"><br>
 		Luko</a> </div>
-		<div class="img-box fl lst"> <a href="images/04.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery1.jpg" alt=""><br>
+		<div class="img-box fl lst"> <a href="images/04.jpg" rel="prettyPhoto[gallery_alan]"><img src="images/gallery1.jpg" alt="Alan Pomerantz"><br>
 		Alan</a> </div>
-		<div class="img-box fl"> <a href="images/05.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery3.jpg" alt=""><br>
-		Gallery 5</a> </div>
-		<div class="img-box fl lst"> <a href="images/06.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery6.jpg" alt=""><br>
-		Gallery 6</a> </div>
-		<div class="img-box fl"> <a href="images/07.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery8.jpg" alt=""><br>
-		Gallery 7</a> </div>
-		<div class="img-box fl lst"> <a href="images/08.jpg" rel="prettyPhoto[pp_gal]"><img src="images/gallery7.jpg" alt=""><br>
-		Gallery 8</a> </div>
+		<a class="invisible" href="images/gallery/luky/2.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/2.jpg"/></a>
 	</div>
 	<div class="col-3">
 		<?php require('col3.php'); ?>

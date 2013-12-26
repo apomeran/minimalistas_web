@@ -125,6 +125,7 @@ a.und:hover,.und a:hover {text-decoration:underline}
 .upc {text-transform:uppercase}
 .extra-wrap {overflow:hidden}
 .nopad {padding:0}
+.invisible {display:none}
 .nomar {margin:0}
 .clear {clear:both;line-height:0}
 .bold {font-weight:bold}
