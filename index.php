@@ -28,7 +28,6 @@
  	 </header>
 <div class="innercopy">More <a href="http://www.templatemonster.com/">Website Templates</a> at TemplateMonster.com!</div>z
   <div class="tumbvr">
-	<div class="tumbvr-mask"></div>
 	<ul>
 		<li><img src="images/01.jpg" alt=""></li>
 		<li><img src="images/02.jpg" alt=""></li>
