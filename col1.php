@@ -7,7 +7,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <h2>Facebook</h2>
-<div class="fb-like-box" data-href="http://www.facebook.com/minimalistasmusica" data-width="80" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+<div class="fb-like-box" data-href="http://www.facebook.com/minimalistasmusica" data-width="80" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
 <br><br><br>
 <div class="p2">
 		<h2>La Dama</h2>
