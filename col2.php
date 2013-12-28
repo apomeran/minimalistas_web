@@ -1,7 +1,7 @@
 <!-- audio player begin -->
 		<div id="jplayer"></div>
 		<div class="jp-audio">
-		<h2>Nueva Cancion</h2>
+		<h2>Temas Minimalistas</h2>
 		<div class="jp-type-single">
 			<div id="jp_interface_1" class="jp-interface">
 			<ul class="jp-controls">
