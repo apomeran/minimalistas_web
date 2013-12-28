@@ -38,6 +38,8 @@
 		<li><img src="images/08.jpg" alt=""></li>
 		<li><img src="images/09.jpg" alt=""></li>
 		<li><img src="images/10.jpg" alt=""></li>
+		<li><img src="images/11.jpg" alt=""></li>
+		<li><img src="images/12.jpg" alt=""></li>
 	</ul>
   </div>
   <article id="content">
