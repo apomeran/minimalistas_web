@@ -6,7 +6,8 @@
   js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like-box" data-href="http://www.facebook.com/minimalistasmusica" data-width="80" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+<h2>Facebook</h2>
+<div class="fb-like-box" data-href="http://www.facebook.com/minimalistasmusica" data-width="80" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
 <br><br><br>
 <div class="p2">
 		<h2>La Dama</h2>
