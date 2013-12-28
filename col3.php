@@ -1,12 +1,10 @@
 	<h2>Tweets Minimales</h2>
 		<div class="und">
-		<p>Twitter Ejemplo 1<br>
-			<a href="#">1 hour ago</a></p>
-		<p>Twitter Ejemplo 2<br>
-			<a href="#">3 hours ago</a></p>
-		<p>Twitter Ejemplo 3<br>
-			<a href="#">7 hours ago</a></p>
 		
+		<a class="twitter-timeline" href="https://twitter.com/LosMinimalistas" data-widget-id="417005981533368321">Tweets por @LosMinimalistas</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
 		</div>
 
 		<h2>Encontranos!</h2>
