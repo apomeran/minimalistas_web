@@ -7,8 +7,8 @@
 			<ul class="jp-controls">
 				<li><a href="#" class="jp-play"></a></li>
 				<li><a href="#" class="jp-pause"></a></li>
-				<li><a href="#" class="jp-prev">Cancion anterior</a></li>
-				<li><a href="#" class="jp-next">Cancion siguiente</a></li>
+				<li><a href="#" class="jp-prev">Anterior</a></li>
+				<li><a href="#" class="jp-next">Siguiente</a></li>
 				<li><a href="audio.php" class="jp-more-songs">Escuchar el CD Completo</a></li>
 			</ul>
 			<div class="jp-progress">
