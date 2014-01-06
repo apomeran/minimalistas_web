@@ -31,53 +31,22 @@
 
 	</div>
 	<div class="col-2">
-		<h2 class="pl">Tour Dates</h2>
+		<h2 class="pl">Proximas Fechas Minimalistas!</h2>
 		<table class="dates" cellpadding="0" cellspacing="0" border="0">
 			<tr class="thead">
-			<td class="col1">Date / Venue</td>
-			<td class="col2">Location</td>
-			<td class="col3">Information</td>
+				<td class="col1">Fecha y Horario </td>
+				<td class="col2">Lugar</td>
+				<td class="col3">Informacion</td>
 			</tr>
 			<tr class="even">
-			<td class="col1">April 6, 2011<br>
-				<a href="#" class="name">Motorpint Arena</a><br>
-				<a href="#" class="facebook-event">Facebook Event</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			<?php include("/fechas/mfm2014.php"); ?>
 			</tr>
 			<tr>
-			<td class="col1">April 6, 2011<br>
-				<a href="#" class="name">Echo Arena</a><br>
-				<a href="#" class="facebook-event">Facebook Event</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			<?php include("/fechas/mfm2014.php"); ?>
 			</tr>
-			<tr class="even">
-			<td class="col1">April 6, 2011<br>
-				<a href="#" class="name">Motorpint Arena</a><br>
-				<a href="#" class="facebook-event">Facebook Event</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
-			<tr>
-			<td class="col1">April 6, 2011<br>
-				<a href="#" class="name">The NEC Arena</a><br>
-				<a href="#" class="facebook-event">Facebook Event</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
-			<tr class="even">
-			<td class="col1">April 6, 2011<br>
-				<a href="#" class="name">Motorpint Arena</a><br>
-				<a href="#" class="facebook-event">Facebook Event</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
+
+
+		
 		</table>
 	</div>
 	<div class="col-3">

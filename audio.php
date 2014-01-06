@@ -32,7 +32,7 @@
 	</div>
 	<div class="col-2">
 		<h2>Audio</h2>
-		<p>Deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumique nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. </p>
+		<p>Escucha nuestro album titulado 'Nueva Tinta':  </p>
 		<ul class="audio">
 		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#">Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
 		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
@@ -57,6 +57,7 @@
 		<li><a href="#">Lilly Watson - Let Me Know</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#">Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
 		</ul>
 	</div>
+	
 	<div class="col-3">
 	       <?php require('col3.php'); ?>
 	</div>

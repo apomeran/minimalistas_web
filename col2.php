@@ -30,36 +30,8 @@
 			<td class="col3">Informacion</td>
 			</tr>
 			<tr class="even">
-			<td class="col1">April 6, 2014<br>
-				<a href="#" class="name">Motorpint Arena</a><br>
-				<a href="#" class="facebook-event">Evento Facebook</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
+			<?php include_once("/fechas/mfm2014.php"); ?>
 			</tr>
-			<tr>
-			<td class="col1">April 6, 2014<br>
-				<a href="#" class="name">Echo Arena</a><br>
-				<a href="#" class="facebook-event">Evento Facebook</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
-			<tr class="even">
-			<td class="col1">April 6, 2014<br>
-				<a href="#" class="name">Motorpint Arena</a><br>
-				<a href="#" class="facebook-event">Evento Facebook</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
-			<tr>
-			<td class="col1">April 6, 2014<br>
-				<a href="#" class="name">The NEC Arena</a><br>
-				<a href="#" class="facebook-event">Evento Facebook</a></td>
-			<td>416 S. 9th St. 83702<br>
-				Boise, ID</td>
-			<td>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorlaudantium, totam rem aperiam.</td>
-			</tr>
+		
 		</table>
 		</div>
