@@ -31,30 +31,23 @@
 	       <?php require('col1.php'); ?>
 	</div>
 	<div class="col-2">
-		<h2>Audio</h2>
+		<h2>Discografia </h2>
 		<p>Escucha nuestro album titulado 'Nueva Tinta':  </p>
+		<p align="center"><img src="images/disco.jpg"></img></p>
 		<ul class="audio">
-		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#">Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Let Me Know</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Sing a Song</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Impressd feat. Jessy</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Count on Me</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - One More Chance</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Let Me Know</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Sing a Song</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Impressd feat. Jessy</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Count on Me</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - One More Chance</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Let Me Know</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Sing a Song</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Impressd feat. Jessy</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Count on Me</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - One More Chance</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Right Now</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#"> Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
-		<li><a href="#">Lilly Watson - Let Me Know</a> <span class="info">(4.4 mb, 491 downloads)</span> <a href="#">Lyrics</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Ausente </a> <span class="info">(4.1 mb, 491 descargas)</span> <a href="#">Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - La Dama </a> <span class="info">(5.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Sueno Letal</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Soldados de Crayon</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Hoy</a> <span class="info">(5.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Saber Avanzar</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Mi Guia</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Retrato al despertar</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Estas pensando</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Dejate Llevar</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Una flor</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+		<li><a href="#">Minimalistas - Nueva Tinta</a> <span class="info">(4.4 mb, 491 descargas)</span> <a href="#"> Letras</a><div class="cntrls"><a href="#" class="mute"></a><span class="separator"></span><a href="#" class="play"></a></div></li>
+
 		</ul>
 	</div>
 	
