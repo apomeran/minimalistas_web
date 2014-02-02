@@ -1,3 +1,11 @@
+
+		<h2>Encontranos!</h2>
+		<ul class="soc-ico">
+		<li><a href="http://www.facebook.com/minimalistasmusica"><img src="images/facebook.png" alt="facebook"></a></li>
+		<li><a href="http://www.twitter.com/losminimalistas"><img src="images/twitter.png" alt="twitter"></a></li>
+		<li><a href="http://www.youtube.com/minimalistasvevo"><img src="images/youtube.png" alt="youtube"></a></li>
+		</ul>
+	<br><br><br><hr><br>
 	<h2>Tweets Minimales</h2>
 		<div class="und">
 		
@@ -6,10 +14,3 @@
 
 
 		</div>
-
-		<h2>Encontranos!</h2>
-		<ul class="soc-ico">
-		<li><a href="http://www.facebook.com/minimalistasmusica"><img src="images/facebook.png" alt="facebook"></a></li>
-		<li><a href="http://www.twitter.com/losminimalistas"><img src="images/twitter.png" alt="twitter"></a></li>
-		<li><a href="http://www.youtube.com/minimalistasvevo"><img src="images/youtube.png" alt="youtube"></a></li>
-		</ul>

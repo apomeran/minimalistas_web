@@ -10,8 +10,8 @@
 <div class="fb-like-box" data-href="http://www.facebook.com/minimalistasmusica" data-width="80" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
 <br><br><br>
 <div class="p2">
-		<h2>La Dama</h2>
-		<img src="images/col-1-img1.png" class="p1" alt="CD Completo"> <a href="audio.php" class="more">Escuchar CD</a>
+		<h2>Nueva Tinta</h2>
+		<img src="images/col-1-img1.jpg" class="p1" alt="CD Completo"> <a href="audio.php" class="more">Escuchar CD</a>
 </div>
 <div class="p2">
 		<h2>Retrato al Despertar (VideoClip)</h2>

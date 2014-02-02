@@ -34,12 +34,12 @@
 		<h2>Biografia</h2>
 		<div class="img-box fl thumbnail"> <a href="images/gallery/urka/01.jpg" rel="prettyPhoto[gallery_urka]"><img src="images/gallery/urka/thumb.png" alt="Uriel Kutner"><br>
 		Urka</a> </div>
+		<div class="img-box fl lst"> <a href="images/gallery/luky/01.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/thumb.jpg" alt="Lucas Moscovicz"><br>
+		Luko</a> </div>
+		<div class="img-box fl"> <a href="images/gallery/alan/01.jpg" rel="prettyPhoto[gallery_alan]"><img src="images/gallery/alan/thumb.png" alt="Alan Pomerantz"><br>
+		Alan</a> </div>
 		<div class="img-box fl lst"> <a href="images/gallery/jony/01.jpg" rel="prettyPhoto[gallery_jony]"><img src="images/gallery/jony/thumb.png" alt="Jonathan Jusid"><br>
 		Jony</a> </div>
-		<div class="img-box fl"> <a href="images/gallery/luky/01.jpg" rel="prettyPhoto[gallery_luky]"><img src="images/gallery/luky/thumb.jpg" alt="Lucas Moscovicz"><br>
-		Luko</a> </div>
-		<div class="img-box fl lst"> <a href="images/04.jpg" rel="prettyPhoto[gallery_alan]"><img src="images/gallery1.jpg" alt="Alan Pomerantz"><br>
-		Alan</a> </div>
 		<a class="invisible" href="images/gallery/luky/02.jpg" rel="prettyPhoto[gallery_luky]"></a>
 		<a class="invisible" href="images/gallery/luky/03.jpg" rel="prettyPhoto[gallery_luky]"></a>
 		<a class="invisible" href="images/gallery/luky/04.jpg" rel="prettyPhoto[gallery_luky]"></a>
@@ -57,6 +57,12 @@
 		<a class="invisible" href="images/gallery/urka/04.jpg" rel="prettyPhoto[gallery_urka]"></a>
 		<a class="invisible" href="images/gallery/urka/05.jpg" rel="prettyPhoto[gallery_urka]"></a>
 		<a class="invisible" href="images/gallery/urka/06.jpg" rel="prettyPhoto[gallery_urka]"></a>
+		
+		<a class="invisible" href="images/gallery/alan/02.jpg" rel="prettyPhoto[gallery_alan]"></a>
+		<a class="invisible" href="images/gallery/alan/03.jpg" rel="prettyPhoto[gallery_alan]"></a>
+		<a class="invisible" href="images/gallery/alan/04.jpg" rel="prettyPhoto[gallery_alan]"></a>
+		<a class="invisible" href="images/gallery/alan/05.jpg" rel="prettyPhoto[gallery_alan]"></a>
+		<a class="invisible" href="images/gallery/alan/06.jpg" rel="prettyPhoto[gallery_alan]"></a>
 		<div>
 		<p><em>Banda de música Rock-Pop surgida en el año 2012.</em></p>
 
