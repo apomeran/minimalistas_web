@@ -16,6 +16,16 @@
 <script type="text/javascript" src="js/jquery.jplayer.settings.js"></script>
 <script type="text/javascript" src="js/gSlider.js"></script>
 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47734004-1', 'minimalistasmusica.com.ar');
+  ga('send', 'pageview');
+
+</script>
 <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
 <!--[if lt IE 7]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]-->
 <!--[if lt IE 9]><script src="js/html5.js" type="text/javascript"></script><![endif]-->
